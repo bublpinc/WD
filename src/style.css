@@ -1,0 +1,107 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    position: absolute;
+    width: 100%;
+    height: 5159px;
+    background: #F9F9F9;
+}
+.header {
+    width: 100%;
+    height: 1059px;
+    left: 0px;
+}
+.container{
+    width: 100%;
+    height: 700px;
+    top: -7px;
+    background: #EEEFF1;
+}
+
+a{
+    text-decoration: none;
+}
+.logo {
+    position: absolute;
+    margin-top: 57px;
+    margin-left: 402px;
+}
+.logo_design {
+    font-family: Revalia;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 60px;
+    text-align: center;
+    color: #34547A;
+}
+.container__nav{
+    position: absolute;
+    margin-top: 79px;
+    margin-left: 896px;
+}
+.navigation{
+    width: 611px;
+    height: 16px;
+}
+.container_style{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+}
+.navigation a {
+    padding: 0px 10px;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+    color: #34547A;
+}
+.container__laptop{
+    position: absolute;
+    margin-top: 278px;
+    margin-left: 487px;
+}
+.container__laptop img{
+    width: 357px;
+    height: 234px;
+}
+.container__design{
+    position: absolute;
+    margin-top: 257px;
+    margin-left: 975px;
+}
+.title{
+    position: absolute;
+    width: 530px;
+    height: 45px;
+}
+.title h1{
+    font-size: 48px;
+    line-height: 79px;
+    color: #000000;
+}
+.text{
+    position: absolute;
+    width: 340px;
+    height: 67px;
+    top: 70px;
+}
+.btn{
+    position: absolute;
+    width: 225px;
+    height: 65px;
+    top: 190px;
+    background: #34547A;
+}
+.btn_text{
+    position: absolute;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.1em;
+
+    color: #FFFFFF;
+}
